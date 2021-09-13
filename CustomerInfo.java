@@ -3,6 +3,10 @@ package BMS;
 import java.util.Random;
 import java.util.Scanner;
 
+/* Adeeba Khan
+   i190626 (E)
+   AP - Task 01 */
+
 /* ___________________________________________________________________________________________*/
 /* --------------------------------------- Class 2 ----------------------------------------- */
 public class CustomerInfo {
